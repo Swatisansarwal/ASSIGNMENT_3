@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_3_High_Quality_Software_Programmning
-
+namespace Assignment_3_vehicle
 {
+    using Assignment_3_vehicle;
 
     public class Program
     {
